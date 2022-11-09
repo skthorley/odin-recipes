@@ -1,0 +1,1 @@
+Goal is to create a recipe website using knowledge of the command line, an IDE, and git 
